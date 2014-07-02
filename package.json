@@ -1,0 +1,20 @@
+{
+  "name": "collect-stream",
+  "version": "0.0.0",
+  "description": "Promisified version of concat-stream",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:grncdr/node-collect-stream.git"
+  },
+  "author": "Stephen Sugden <me@stephensugden.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/contentful/node-seed/issues"
+  },
+  "homepage": "https://github.com/grncdr/node-collect-stream",
+  "dependencies": {
+    "bluebird": "*",
+    "concat-stream": "^1.4.6"
+  }
+}
